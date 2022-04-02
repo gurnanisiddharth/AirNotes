@@ -33,5 +33,6 @@ For any help email me:
 
 ### Project status
 
-The project is complete and ready to use!
+The project is complete and ready to use! 
+Visit [](https://gurnanisiddharth.github.io/airNotes)
 New features will be added regularly based on feedbacks.
