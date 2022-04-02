@@ -13,10 +13,10 @@ AirNotes
 ->Ability to edit the notes.
 
 
-### )Visuals
+### Visuals
 <img src="https://github.com/gurnanisiddharth/airNotes/blob/34071150f5fb8c69380fe8a0e275278619e480ca/Assets/Photo1.JPG">
 <img src="https://github.com/gurnanisiddharth/airNotes/blob/34071150f5fb8c69380fe8a0e275278619e480ca/Assets/photo2.JPG">
-<img src="https://github.com/gurnanisiddharth/airNotes/blob/34071150f5fb8c69380fe8a0e275278619e480ca/Assets/Photo3.JPG">
+<img src="https://github.com/gurnanisiddharth/airNotes/blob/44f148ab07e92569de5210332d67f3da19e5d658/Assets/photo3.JPG">
 
 ### Installation
 
@@ -29,7 +29,7 @@ This can be used to take notes on the go , instead of creating an empty whatsapp
 ### Support
 
 For any help email me: 
-[Siddharth Gurnani](mailto sidsunny24@gmail.com)
+[Siddharth Gurnani](mailto:sidsunny24@gmail.com)
 
 ### Project status
 
