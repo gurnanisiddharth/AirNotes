@@ -1,0 +1,8 @@
+A notes app to note down things, made entirely with HTML, CSS, JavaScript
+Theme switcher to switch between light and dark modes.
+LocalStorage saves all your previous notes.
+Add as many notes as you want.
+You can write your notes in markdown text.
+Theme selected is remembered between sessions.
+Ability to delete unwanted notes.
+Ability to edit the notes.
